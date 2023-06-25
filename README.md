@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+
 
 # User List with Search Feature
 
@@ -21,8 +21,8 @@ This project is a user list with a search feature. It displays a list of users a
 
 To run the project locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/repository-name.git`
-2. Change into the project directory: `cd repository-name`
+1. Clone the repository: `git clone (https://github.com/Akash-san/Avatar-Gen.git)`
+2. Change into the project directory: `cd Avatar-Gen`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm start`
 5. Open your web browser and visit: `http://localhost:3000`
@@ -37,6 +37,4 @@ To run the project locally, follow these steps:
 
 Contributions are welcome! If you find any issues or have suggestions for improvement, please open an issue or submit a pull request.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
